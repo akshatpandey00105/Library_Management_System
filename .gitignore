@@ -1,0 +1,12 @@
+# Ignore build files
+*.o
+*.out
+*.exe
+library_system
+
+# Ignore IDE configuration files
+.idea/
+.vscode/
+
+# Ignore OS-specific files
+Thumbs.db
