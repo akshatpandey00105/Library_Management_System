@@ -18,7 +18,7 @@ It allows students to issue and return books, and enables basic book management 
 ### ✅ Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Library_Management_System.git
+git clone https://github.com/akshatpandey00105/Library_Management_System.git
 cd Library_Management_System
 
 ✅ Step 2: Compile the Program
